@@ -11,3 +11,7 @@ The two open-source datasets are available on:
 The first dataset contains COVID-19 and some other diseases like: ARDS, SARS, Streptococcus, Pneumocystis.
 
 The second dataset contains patients with pneumonia and normal people.
+
+Some of the images of these datasets are:
+![GitHub Logo](/images/normal.png)
+Format: ![Alt Text](url)
