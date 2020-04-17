@@ -19,12 +19,19 @@ Some of the images of these datasets are:
  *These images show Normal, Pneumonia and COVID-19 cases from left to right respectively.*
 
 
-We have used a concatenation of ResNet50V2 and Xception networks as the network for classifying the images into three classes : Normal, Pneumonia and COVID-19.
+We have used a concatenation of ResNet50V2 and Xception networks as the network for classifying the images into 
+three classes : Normal, Pneumonia and COVID-19.
 
 <p align="center">
 	<img src="images/concatenated_net.png" alt="photo not available" width="100%" height="70%">
 	<br>
 	<em>The architecture of our proposed network</em>
 </p>
+
+We have evaluated our network on 11302 images to show the real performance of our proposed network.
+
+The confusion matrixes for two folds are depicted below:
+<img src="/Confusion_matrix/concatenate-fold3-confusion_matrix.pdf" width="30%"> <img src="/images/pneumonia.png" width="30%">
+
 
  
