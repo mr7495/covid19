@@ -67,5 +67,4 @@ https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sha
 In the results folder, you can access all the details of our achieved results. The Confusion_matrix folder is included the confusion matrixes of all the networks we tested for each fold, and in the prepared_csv_files directory, we have shared all the CSV files we generated and used in our work.
 
 **This pre-print of this paper is available on: **
-
 https://www.researchgate.net/publication/340686417_A_NEW_MODIFIED_DEEP_CONVOLUTIONAL_NEURAL_NETWORK_FOR_DETECTING_COVID-19_FROM_X-RAY_IMAGES
