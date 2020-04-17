@@ -16,10 +16,3 @@ Some of the images of these datasets are:
 
 <img src="/images/normal.png" width="30%"> <img src="/images/pneumonia.png" width="30%"> <img src="/images/covid.png" width="30%">
  *These images show Normal, Pneumonia and COVID-19 cases from left to right respectively.*
-
-
-<p align="center">
-	<img src="images/normal.png" alt="photo not available" width="70%" height="70%">
-	<br>
-	<em>Example chest radiography images of COVID-19 cases from 2 different patients and their associated critical factors (highlighted in red) as identified by GSInquire.</em>
-</p>
