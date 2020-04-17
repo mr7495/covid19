@@ -21,6 +21,6 @@ Some of the images of these datasets are:
 
 We have used a concatenation of ResNet50V2 and Xception networks as the network for classifying the images into three classes : Normal, Pneumonia and COVID-19.
 
-<img src="/images/concatenated_net.jpg" width="60%">
+<img src="/images/concatenated_net.png" width="60%">
 
  *The architecture of our proposed network*
