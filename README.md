@@ -8,7 +8,7 @@ The two open-source datasets are available on:
 
 2-https://www.kaggle.com/c/rsna-pneumonia-detection-challenge 
 
-The first dataset contains COVID-19 and some other diseases like: ARDS, SARS, Streptococcus, Pneumocystis.
+The first dataset contains COVID-19 and some other diseases like ARDS, SARS, Streptococcus, Pneumocystis.
 
 The second dataset contains patients with pneumonia and normal people.
 
@@ -20,7 +20,7 @@ Some of the images of these datasets are:
 
 
 We have used a concatenation of ResNet50V2 and Xception networks as the network for classifying the images into 
-three classes : Normal, Pneumonia and COVID-19.
+three classes: Normal, Pneumonia, and COVID-19.
 
 <p align="center">
 	<img src="images/concatenated_net.png" alt="photo not available" width="100%" height="70%">
@@ -35,22 +35,22 @@ The confusion matrixes for two folds are depicted below:
 <img src="/Confusion_matrix/concatenate-fold1-confusion_matrix-1.jpg" width="50%"><img src="/Confusion_matrix/concatenate-fold3-confusion_matrix-1.jpg" width="50%">
 
 
- The next tables will show the average of specificty and recall metrics for each class between five folds.
+ The next tables will show the average of specificity and recall metrics for each class between five folds.
  
  Metric | COVID-19 | Pneumonia | Normal
 ------------ | ------------- | ------------- | -------------
-Specificty | 99.56 | 94.32 | 88.09
+Specificity | 99.56 | 94.32 | 88.09
 Accuracy | 99.50 | 91.60 | 91.71
 
 You can access my written codes here as follows:
 
-In the data Loading-Training-Evaluating.ipynb file you can find our codes for loading data, networks training and evaluation.
+In the data Loading-Training-Evaluating.ipynb file, you can find our codes for loading data, network training, and evaluation.
 
-The dataset preparing.ipynb file contains codes that were used for preparing the dataset and some part of this code is inspired from Linda Wang and Alexander Wong work that is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
+The dataset preparing.ipynb file contains codes that were used for preparing the dataset, and some part of this code is inspired by Linda Wang and Alexander Wong work that is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
 
 Results.py includes the codes that are written to outputs the confusion matrixes and details for the tables.
 
-You can also access and use all of out trained networks for each fold in :
+You can also access and use all of our trained networks for each fold in :
 https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sharing
 
-In the results folder you can access all the details our acheived results. The Confusion_matrix folder is included the confusion matrixes of all the networks we tested for each fold and the in the prepared_csv_files directory we have shared all the csv files we generated and used in our work.
+In the results folder, you can access all the details of our achieved results. The Confusion_matrix folder is included the confusion matrixes of all the networks we tested for each fold, and in the prepared_csv_files directory, we have shared all the CSV files we generated and used in our work.
