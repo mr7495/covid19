@@ -4,4 +4,3 @@ COVID-19 has become a serious health problem all around the world.  It is confir
 
 The two open-source datasets are available on:
 1- http://github.com - automatic!
-[GitHub](http://github.com)
