@@ -31,6 +31,7 @@ three classes : Normal, Pneumonia and COVID-19.
 We have evaluated our network on 11302 images to show the real performance of our proposed network.
 
 The confusion matrixes for two folds are depicted below:
+
 <img src="/Confusion_matrix/concatenate-fold1-confusion_matrix-1.jpg.pdf" width="30%"> <img src="/images/concatenate-fold3-confusion_matrix-1.jpg" width="30%">
 
 
