@@ -49,3 +49,7 @@ In the data Loading-Training-Evaluating.ipynb file you can find our codes for lo
 The dataset preparing.ipynb file contains codes that were used for preparing the dataset and some part of this code is inspired from Linda Wang and Alexander Wong work that is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
 
 Results.py includes the codes that are written to outputs the confusion matrixes and details for the tables.
+
+You can also access and use all of out trained networks for each fold in :
+
+https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sharing
