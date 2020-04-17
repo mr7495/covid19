@@ -38,6 +38,7 @@ The confusion matrixes for two folds are depicted below:
  The next tables will show the average of specificty and recall metrics for each class between five folds.
  
  Metric | COVID-19 | Pneumonia | Normal
------------- | -------------
+------------ | ------------- | ------------- | -------------
 Specificty | 99.56 | 94.32 | 88.09
+------------ | ------------- | ------------- | -------------
 Accuracy | 99.50 | 91.60 | 91.71
