@@ -41,3 +41,10 @@ The confusion matrixes for two folds are depicted below:
 ------------ | ------------- | ------------- | -------------
 Specificty | 99.56 | 94.32 | 88.09
 Accuracy | 99.50 | 91.60 | 91.71
+
+You can access my written codes here as follows:
+In the data Loading-Training-Evaluating.ipynb file you can find our codes for loading data, networks training and evaluation.
+
+The dataset preparing.ipynb file contains codes that were used for preparing the dataset and some part of this code is written by Linda Wang and Alexander Wong and is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
+
+Results.py includes the codes that are written to outputs the confusion matrixes and details for the tables.
