@@ -13,6 +13,7 @@ The first dataset contains COVID-19 and some other diseases like: ARDS, SARS, St
 The second dataset contains patients with pneumonia and normal people.
 
 Some of the images of these datasets are:
+
 <img src="/images/normal.png" width="40%"> 
 <img src="/images/pneumonia.png" width="40%">
 <img src="/images/covid.png" width="40%">
