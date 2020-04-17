@@ -35,4 +35,9 @@ The confusion matrixes for two folds are depicted below:
 <img src="/Confusion_matrix/concatenate-fold1-confusion_matrix-1.jpg" width="50%"><img src="/Confusion_matrix/concatenate-fold3-confusion_matrix-1.jpg" width="50%">
 
 
+ The next tables will show the average of specificty and recall metrics for each class between five folds.
  
+ First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
