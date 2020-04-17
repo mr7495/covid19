@@ -28,6 +28,15 @@ three classes: Normal, Pneumonia, and COVID-19.
 	<em>The architecture of our proposed network</em>
 </p>
 
+
+ Dataset | COVID-19 | Pneumonia | Normal
+------------ | ------------- | ------------- | -------------
+covid chestxray dataset | 180 | 42 | 0
+rsna pneumonia detection challenge | 0 | 6012 | 8851
+Total | 180 | 6054 | 8851
+All Training Sets | 149 | 1634 | 2000
+Validation Set | 31 | 4420 | 6851
+
 We have evaluated our network on 11302 images to show the real performance of our proposed network.
 
 The confusion matrixes for two folds are depicted below:
