@@ -27,10 +27,6 @@ three classes: Normal, Pneumonia, and COVID-19.
 	<br>
 	<em>The architecture of our proposed network</em>
 </p>
-
-
-
-
  Dataset | COVID-19 | Pneumonia | Normal
 ------------ | ------------- | ------------- | -------------
 covid chestxray dataset | 180 | 42 | 0
