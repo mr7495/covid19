@@ -24,7 +24,7 @@ We have used a concatenation of ResNet50V2 and Xception networks as the network 
 <p align="center">
 	<img src="images/concatenated_net.png" alt="photo not available" width="70%" height="70%">
 	<br>
-	<em>EThe architecture of our proposed network) as identified by GSInquire.</em>
+	<em>The architecture of our proposed network</em>
 </p>
 
  
