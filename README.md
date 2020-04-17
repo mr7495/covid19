@@ -14,7 +14,7 @@ The second dataset contains patients with pneumonia and normal people.
 
 Some of the images of these datasets are:
 
-{% include image.html img="/images/normal.png" title="dd" caption="dd" %}
+{% include image.html img="/images/normal.png"  caption="dd"}
 <img src="/images/normal.png" width="30%">
 <img src="/images/pneumonia.png" width="30%"> <img src="/images/covid.png" width="30%">
  
