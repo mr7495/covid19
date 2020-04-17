@@ -52,3 +52,5 @@ Results.py includes the codes that are written to outputs the confusion matrixes
 
 You can also access and use all of out trained networks for each fold in :
 https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sharing
+
+In the results folder you can access all the details our acheived results. The Confusion_matrix folder is included the confusion matrixes of all the networks we tested for each fold and the in the prepared_csv_files directory we have shared all the csv files we generated and used in our work.
