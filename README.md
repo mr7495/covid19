@@ -7,3 +7,7 @@ The two open-source datasets are available on:
 1- https://github.com/ieee8023/covid-chestxray-dataset
 
 2-https://www.kaggle.com/c/rsna-pneumonia-detection-challenge 
+
+The first dataset contains COVID-19 and some other diseases like: ARDS, SARS, Streptococcus, Pneumocystis.
+
+The second dataset contains patients with pneumonia and normal people.
