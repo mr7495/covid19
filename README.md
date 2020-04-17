@@ -15,5 +15,5 @@ The second dataset contains patients with pneumonia and normal people.
 Some of the images of these datasets are:
 
 <img src="/images/normal.png" width="30%"> <img src="/images/pneumonia.png" width="30%"> <img src="/images/covid.png" width="30%">
- *image_caption*
+ *These images show Normal, Pneumonia and COVID-19 cases from left to right respectively.*
 
