@@ -37,7 +37,7 @@ Total | 180 | 6054 | 8851
 All Training Sets | 149 | 1634 | 2000
 Validation Set | 31 | 4420 | 6851
 
-As it is stated, we only had 180 cases infected to COVID-19, which is almost a few numbers of data for a class. If we
+As it is obvious from the table, we had 180 cases of COVID-19, which is almost a few numbers of data for a class. If we
 had combined lots of images from normal or pneumonia classes with few images of COVID-19 class, the network
 would become able to detect pneumonia and normal classes very well, but not the COVID-19 class. In that case, as
 there are many more images of pneumonia and normal classes than the COVID-19 class, the general accuracy would
