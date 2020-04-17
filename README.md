@@ -51,5 +51,4 @@ The dataset preparing.ipynb file contains codes that were used for preparing the
 Results.py includes the codes that are written to outputs the confusion matrixes and details for the tables.
 
 You can also access and use all of out trained networks for each fold in :
-
 https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sharing
