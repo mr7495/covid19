@@ -68,3 +68,5 @@ In the results folder, you can access all the details of our achieved results. T
 
 **The pre-print of this paper is available on:**
 https://www.researchgate.net/publication/340686417_A_NEW_MODIFIED_DEEP_CONVOLUTIONAL_NEURAL_NETWORK_FOR_DETECTING_COVID-19_FROM_X-RAY_IMAGES
+
+You can contact the developer by this email: mr7495@yahoo.com
