@@ -69,8 +69,8 @@ In the results folder, you can access all the details of our achieved results. T
 **The pre-print of this paper is available on:**
 https://www.researchgate.net/publication/340686417_A_NEW_MODIFIED_DEEP_CONVOLUTIONAL_NEURAL_NETWORK_FOR_DETECTING_COVID-19_FROM_X-RAY_IMAGES
 
-If you liked pur paper, you can cite it by:
-'''
+If you liked pur paper, you can cite it by:.
+```
 @misc{rahimzadeh2020new,
     title={A New Modified Deep Convolutional Neural Network for Detecting COVID-19 from X-ray Images},
     author={Mohammad Rahimzadeh and Abolfazl Attar},
@@ -79,7 +79,7 @@ If you liked pur paper, you can cite it by:
     archivePrefix={arXiv},
     primaryClass={eess.IV}
 }
-'''
+```
 
 
 You can contact the developer by this email: mr7495@yahoo.com
