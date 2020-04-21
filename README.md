@@ -43,7 +43,7 @@ As it is evident from the table, we had 180 cases of COVID-19, which is almost a
 
 **In fold3, we had 30 cases of COVID-19 for the validation set.**
 
-The confusion matrixes for two folds are depicted below:
+The confusion matrices for two folds are depicted below:
 
 <img src="/Confusion_matrix/concatenate-fold1-confusion_matrix-1.jpg" width="50%"><img src="/Confusion_matrix/concatenate-fold3-confusion_matrix-1.jpg" width="50%">
 
@@ -61,12 +61,12 @@ In the data Loading-Training-Evaluating.ipynb file, you can find our codes for l
 
 The dataset preparing.ipynb file contains codes that were used for preparing the dataset, and some part of this code is inspired by Linda Wang and Alexander Wong work that is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
 
-**Results.py includes the codes that are written to outputs the confusion matrixes and details for the tables.**
+**Results.py includes the codes that are written to outputs the confusion matrices and details for the tables.**
 
 **You can also access and use all of our trained networks for each fold in :**
 https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sharing
 
-In the results folder, you can access all the details of our achieved results. The Confusion_matrix folder is included the confusion matrixes of all the networks we tested for each fold, and in the prepared_csv_files directory, we have shared all the CSV files we generated and used in our work.
+In the results folder, you can access all the details of our achieved results. The Confusion_matrix folder is included the confusion matrices of all the networks we tested for each fold, and in the prepared_csv_files directory, we have shared all the CSV files we generated and used in our work.
 
 **The pre-print of this paper is available on:**
 https://www.researchgate.net/publication/340686417_A_NEW_MODIFIED_DEEP_CONVOLUTIONAL_NEURAL_NETWORK_FOR_DETECTING_COVID-19_FROM_X-RAY_IMAGES
