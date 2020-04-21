@@ -120,3 +120,4 @@ for fo in [1,2,3,4,5,'average']:
                               results[fo][net]['pneu_accuracy'],
                               results[fo][net]['normal_accuracy']])            
                         
+             
