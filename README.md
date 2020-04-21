@@ -41,7 +41,7 @@ As it is evident from the table, we had 180 cases of COVID-19, which is almost a
 
 **We have evaluated our network on 11302 images to show the real performance of our proposed network.**
 
-**In fold3, we had 30 cases of COVID-19 for validation set.**
+**In fold3, we had 30 cases of COVID-19 for the validation set.**
 
 The confusion matrixes for two folds are depicted below:
 
