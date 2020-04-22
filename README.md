@@ -73,13 +73,11 @@ https://www.researchgate.net/publication/340686417_A_NEW_MODIFIED_DEEP_CONVOLUTI
 
 If you liked pur paper, you can cite it by:.
 ```
-@misc{rahimzadeh2020new,
-    title={A New Modified Deep Convolutional Neural Network for Detecting COVID-19 from X-ray Images},
-    author={Mohammad Rahimzadeh and Abolfazl Attar},
-    year={2020},
-    eprint={2004.08052},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@article{rahimzadeh2020new,
+  title={A New Modified Deep Convolutional Neural Network for Detecting COVID-19 from X-ray Images},
+  author={Rahimzadeh, Mohammad and Attar, Abolfazl},
+  journal={arXiv preprint arXiv:2004.08052},
+  year={2020}
 }
 ```
 
