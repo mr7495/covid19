@@ -59,7 +59,7 @@ You can access my written codes here as follows:
 
 In the [data Loading-Training-Evaluating.ipynb file](data Loading-Training-Evaluating.ipynb file), you can find our codes for loading data, network training, and evaluation.
 
-The [dataset preparing.ipynb](dataset preparing.ipynb) file contains codes that were used for preparing the dataset, and some part of this code is inspired by Linda Wang and Alexander Wong work that is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
+The [dataset preparing.ipynb](dataset_preparing.ipynb) file contains codes that were used for preparing the dataset, and some part of this code is inspired by Linda Wang and Alexander Wong work that is shared on https://github.com/lindawangg/COVID-Net/blob/master/README.md.
 
 **[Results.py](Results.py) includes the codes that are written to outputs the confusion matrices and details for the tables.**
 
