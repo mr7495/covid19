@@ -68,16 +68,21 @@ https://drive.google.com/drive/folders/19R4T-D-bWUkQOh3xy5CkIDAmkLBt8ID7?usp=sha
 
 In the [results folder](results), you can access all the details of our achieved results. The [Confusion_matrix folder](Confusion_matrix) is included the confusion matrices of all the networks we tested for each fold, and in the [prepared_csv_files](prepared_csv_files) directory, we have shared all the CSV files we generated and used in our work.
 
-**The pre-print of this paper is available on:**
-https://www.researchgate.net/publication/340686417_A_NEW_MODIFIED_DEEP_CONVOLUTIONAL_NEURAL_NETWORK_FOR_DETECTING_COVID-19_FROM_X-RAY_IMAGES
+**The  paper is available on:**
+https://doi.org/10.1016/j.imu.2020.100360
 
 If you liked pur paper, you can cite it by:.
 ```
-@article{rahimzadeh2020new,
-  title={A New Modified Deep Convolutional Neural Network for Detecting COVID-19 from X-ray Images},
-  author={Rahimzadeh, Mohammad and Attar, Abolfazl},
-  journal={arXiv preprint arXiv:2004.08052},
-  year={2020}
+@article{RAHIMZADEH2020100360,
+title = "A modified deep convolutional neural network for detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception and ResNet50V2",
+journal = "Informatics in Medicine Unlocked",
+pages = "100360",
+year = "2020",
+issn = "2352-9148",
+doi = "https://doi.org/10.1016/j.imu.2020.100360",
+url = "http://www.sciencedirect.com/science/article/pii/S2352914820302537",
+author = "Mohammad Rahimzadeh and Abolfazl Attar",
+keywords = "Deep learning, Convolutional neural networks, COVID-19, Coronavirus, Transfer learning, Deep feature extraction, Chest X-ray images",
 }
 ```
 
