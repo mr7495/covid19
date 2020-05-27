@@ -71,7 +71,7 @@ In the [results folder](results), you can access all the details of our achieved
 **The  paper is available on:**
 https://doi.org/10.1016/j.imu.2020.100360
 
-If you liked pur paper, you can cite it by:.
+If you like our paper, you can cite it by:.
 ```
 @article{RAHIMZADEH2020100360,
 title = "A modified deep convolutional neural network for detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception and ResNet50V2",
