@@ -73,16 +73,13 @@ https://doi.org/10.1016/j.imu.2020.100360
 
 If you like our paper, you can cite it by:.
 ```
-@article{RAHIMZADEH2020100360,
-title = "A modified deep convolutional neural network for detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception and ResNet50V2",
-journal = "Informatics in Medicine Unlocked",
-pages = "100360",
-year = "2020",
-issn = "2352-9148",
-doi = "https://doi.org/10.1016/j.imu.2020.100360",
-url = "http://www.sciencedirect.com/science/article/pii/S2352914820302537",
-author = "Mohammad Rahimzadeh and Abolfazl Attar",
-keywords = "Deep learning, Convolutional neural networks, COVID-19, Coronavirus, Transfer learning, Deep feature extraction, Chest X-ray images",
+@article{rahimzadeh2020modified,
+  title={A modified deep convolutional neural network for detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception and ResNet50V2},
+  author={Rahimzadeh, Mohammad and Attar, Abolfazl},
+  journal={Informatics in Medicine Unlocked},
+  pages={100360},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
 
